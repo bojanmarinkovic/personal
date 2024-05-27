@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Bojan Marinkovic
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Product Manager by day, Superhobbyist by night
 
 profile:
   align: right
