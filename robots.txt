@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bojanmarinkovic.github.io/personal/al-folio/sitemap.xml
+Sitemap: https://bojanmarinkovic.github.io/personal/sitemap.xml
