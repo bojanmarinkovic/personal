@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bojan Marinkovic
+title: about
 permalink: /
 subtitle: Product Manager by day, Superhobbyist by night
 
